@@ -1,4 +1,4 @@
-# NBANetPointsNetworkBokeh
+# Preliminary Bokeh Application
 
 This repo implements [a previous analysis using NBA lineup data](https://github.com/douglaswlee/NBANetPointsNetwork) as an interactive Bokeh visualization, using the script `NBA_NetPts_Network.py`. This visualization allows a user to select a given season and then a team to produce the network graph from the previous analysis, starting from the 2000-01 season. Within the network graph, the user may also select a node corresponding to each player to highlight his estimated net points contributed while on the court with each teammate.
 
