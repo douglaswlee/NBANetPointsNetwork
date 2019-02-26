@@ -1,4 +1,4 @@
-# NBANetPointsNetwork
+# Exploration Notebook
 
 This repo contains the notebook `NBA_NetPts_Network.ipynb` which performs the following:
 
